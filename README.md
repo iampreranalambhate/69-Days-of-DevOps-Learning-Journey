@@ -1,10 +1,10 @@
-# 69 Days of DevOps Learning Journey
+# 69 Days of AWS Learning Journey
 
 ##  Introduction
 
-Welcome to my **69 Days of DevOps Learning Journey**  
+Welcome to my **69 Days of AWS Learning Journey**  
 
-This repository contains all my Medium blog posts where I documented my daily DevOps learning — starting from basic cloud concepts to advanced AWS networking, storage, monitoring, and messaging services.
+This repository contains all my Medium blog posts where I documented my daily AWS learning — starting from basic cloud concepts to advanced AWS networking, storage, monitoring, and messaging services.
 
 Through this journey, I built strong foundational and practical knowledge in:
 
